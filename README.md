@@ -1,5 +1,4 @@
 # Queuing_Lab_2023
-- ΕΜΠ - ΣΗΜΜΥ
-- Εργαστηριακό μέρος του μαθημάτος Συστηματα Αναμονης (Ροη Δ) του 6ου Εξαμήνου
-- Περιέχονται εκφωνήσεις και λύσεις
-- Γεωργακόπουλος Γεωργιος
+- NTUA - ECE
+- Laboratory part of the Queuing Systems course (Flow Δ) of the 6th Semester
+- Contains exercises and solutions
